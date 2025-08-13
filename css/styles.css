@@ -54,7 +54,7 @@ body {
 }
 
 .navbar {
-    padding: 0.5rem 0;
+    padding: 0.8rem 0;
 }
 
 .navbar .container {
@@ -70,9 +70,10 @@ body {
 }
 
 .logo-img {
-    height: 50px;
+    height: 70px;
     width: auto;
     object-fit: contain;
+    background: transparent;
 }
 
 .nav-toggle {
@@ -1189,7 +1190,7 @@ body {
     }
     
     .logo-img {
-        height: 45px;
+        height: 60px;
     }
 }
 
@@ -1273,7 +1274,7 @@ body {
     }
     
     .logo-img {
-        height: 40px;
+        height: 50px;
     }
     
     .hero {
